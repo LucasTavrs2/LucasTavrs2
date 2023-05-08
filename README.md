@@ -36,7 +36,7 @@
 <br>
 <hr>
 
-![Snake animation](https://github.com/LucasTavrs2/LucasTavrs2/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
