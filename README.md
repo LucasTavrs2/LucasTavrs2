@@ -2,8 +2,8 @@
 ## My name is Lucas Tavares Oliveira and my nickname is "LucasTavrs2"!
 
 - 🔭 I'm currently interning at PIT Petrobras (ECOA PUC-Rio)
-- 🌱 I’m currently learning PHP, Bootstrap 5 and Figma
-- 👯 I’m looking to collaborate on Front-End Projects
+- 🌱 I’m currently learning Django, Java and MySql
+- 👯 I’m looking to collaborate on Front-End, Back-End and Data Science Projects
 - 💬 Ask me about code
 - 📫 How to reach me: https://linktr.ee/LucasTavrs
 - 😄 Pronouns: He/His
@@ -13,10 +13,13 @@
 ## Tools and technologies
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="42" height="42" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="42" height="42" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="42" height="42" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42" height="42" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" width="42" height="42" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42" height="42" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="42" height="42" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" height="42" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="42" height="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="42" height="42" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="42" height="42" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="42" height="42" />
           
 ## I'm learning
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="42" height="42" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="42" height="42" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="42" height="42" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" width="42" height="42" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="42" height="42" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="42" height="42" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/database/database-original.svg" width="42" height="42" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terminal/terminal-original.svg" width="42" height="42" />
 
 ## Contacts:
 
