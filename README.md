@@ -1,7 +1,7 @@
 # 👋 Hello! Welcome to my Github profile.
 ## My name is Lucas Tavares Oliveira and my nickname is "LucasTavrs2"!
 
-- 🔭 I'm currently interning at PIT Petrobras (ECOA PUC-Rio)
+- 🔭 I'm currently interning at Ignição Petrobras (ECOA PUC-Rio)
 - 🌱 I’m currently learning Django, Java and MySql
 - 👯 I’m looking to collaborate on Front-End, Back-End and Data Science Projects
 - 💬 Ask me about code
